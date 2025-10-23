@@ -1,0 +1,2 @@
+git remote add origin https://github.com/YourUsername/GMT320-DataCarta-Project.git
+
